@@ -1,23 +1,23 @@
-## Tecnologías
+## Tecnologies
 
 - TypeScript
 - React
 - Next.js
 
-## Requisitos
+## Requirements
 
 - Node.js ^20.13.1
 - Yarn
 
-## Instalación
+## Installation
 
-1. Instalar las dependencias de la aplicación
+1. Install dependencies:
 
 ```bash
 $ yarn install
 ```
 
-2. Iniciar la aplicación:
+2. Run application:
 
 ```bash
 # development watch mode
